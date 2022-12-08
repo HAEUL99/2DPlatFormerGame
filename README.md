@@ -15,14 +15,14 @@ HCI project in 2022 Fall
 - Built in lobby System
 
 ## Game Routine
-- Lobby
-    - <img width="640" height="360" src = "https://github.com/HAEUL99/2DPlatFormerGame/issues/1#issuecomment-1341883774">
-
+- Login and Lobby
+    - ![vllo 3](https://user-images.githubusercontent.com/71214577/206332770-a8a86565-1e40-4934-abf2-85dc82e43437.gif)
+    
 - Create room
-    - <img width="640" height="360" src = "https://github.com/HAEUL99/2DPlatFormerGame/issues/1#issuecomment-1341884697">
+    - ![vllo 4](https://user-images.githubusercontent.com/71214577/206333722-14ab189b-a56b-4a0a-ad88-4ed7ac15e2d9.gif)
     
 - Game
-    - <img width="640" height="360" src = "https://user-images.githubusercontent.com/71214577/206338921-51733d46-ddba-4e00-a105-aa1a5f6e6f3f.png">
+    - ![vllo 2](https://user-images.githubusercontent.com/71214577/206328859-42ff8056-fc8a-46f8-83ac-ba85b6d6db94.gif)
 
 
 ## Reference 
