@@ -21,6 +21,7 @@ HCI project in 2022 Fall
 - Create/ join the room
 
 - Game
+https://github.com/HAEUL99/2DPlatFormerGame/issues/1#issue-1483208376
 
 
 
