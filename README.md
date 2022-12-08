@@ -27,7 +27,7 @@ HCI project in 2022 Fall
 
 ## Reference 
 - YouTube: [Photon Networking2](https://www.youtube.com/watch?v=p8YQpcoaPoU&list=PLkx8oFug638oMagBH2qj1fXOkvBr6nhzt)
-- Doc: [Photon Unity Networking2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro)
+- Doc: [Photon Unity Networking2](https://doc.photonengine.com/en-us/pun/cregreurrent/getting-started/pun-intro)
 
 
 ## Resources 
@@ -35,7 +35,7 @@ HCI project in 2022 Fall
 - [Doc](https://docs.google.com/document/d/1lHEIWEka1HZl2PljJ98qQyB-vyq_bBhhqCEpRcq4N0Y/edit?usp=sharing)
 
 ## Exe
-- [Windows]()
+- [Windows](https://drive.google.com/file/d/1K7vxgwAi-U0ku09Cb4Gk2iC98ZuI7kTD/view?usp=sharing)
 - [MacOS](https://drive.google.com/file/d/1lIST84lypz8AxIFn6KFXL9oTP9wKwoqs/view?usp=sharing)
     - if it says "Apple can't check app for malicious software", In the Finder(do not use Launchpad), locate the app and control-click the app icon, then choose open from the shortcut menu.
   
