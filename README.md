@@ -26,13 +26,13 @@ HCI project in 2022 Fall
 
 
 ## Reference 
-    - YouTube: [Photon Networking2](https://www.youtube.com/watch?v=p8YQpcoaPoU&list=PLkx8oFug638oMagBH2qj1fXOkvBr6nhzt)
-    - Doc: [Photon Unity Networking2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro)
+- YouTube: [Photon Networking2](https://www.youtube.com/watch?v=p8YQpcoaPoU&list=PLkx8oFug638oMagBH2qj1fXOkvBr6nhzt)
+- Doc: [Photon Unity Networking2](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro)
 
 
 ## Resources 
-    - [PPT](https://docs.google.com/presentation/d/1cxarmPON5feK4v5n252qgA7P86VpKua628Z9_ri3oOw/edit?usp=sharing)
-    - [Doc](https://docs.google.com/document/d/1lHEIWEka1HZl2PljJ98qQyB-vyq_bBhhqCEpRcq4N0Y/edit?usp=sharing)
+- [PPT](https://docs.google.com/presentation/d/1cxarmPON5feK4v5n252qgA7P86VpKua628Z9_ri3oOw/edit?usp=sharing)
+- [Doc](https://docs.google.com/document/d/1lHEIWEka1HZl2PljJ98qQyB-vyq_bBhhqCEpRcq4N0Y/edit?usp=sharing)
   
 
         
