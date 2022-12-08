@@ -33,6 +33,11 @@ HCI project in 2022 Fall
 ## Resources 
 - [PPT](https://docs.google.com/presentation/d/1cxarmPON5feK4v5n252qgA7P86VpKua628Z9_ri3oOw/edit?usp=sharing)
 - [Doc](https://docs.google.com/document/d/1lHEIWEka1HZl2PljJ98qQyB-vyq_bBhhqCEpRcq4N0Y/edit?usp=sharing)
+
+## Exe
+- [Windows]()
+- [MacOS](https://drive.google.com/file/d/1lIST84lypz8AxIFn6KFXL9oTP9wKwoqs/view?usp=sharing)
+    - if it says "Apple can't check app for malicious software", In the Finder(do not use Launchpad), locate the app and control-click the app icon, then choose open from the shortcut menu.
   
 
         
